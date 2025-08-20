@@ -21,9 +21,9 @@ Customize: Click the "settings" button to adjust your session times.
 
 Reset: Click the "reset" button to end the current session and restart.
 
-Technologies Used
+#### what's used
 HTML5: The core structure of the page.
 
-CSS (Tailwind CSS): For styling and layout.
+CSS (Tailwind): For styling and layout.
 
 JavaScript: For all timer functionality.
